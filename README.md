@@ -1,4 +1,13 @@
-# Computer Application 💻  
+<h1 align="center">Hey, I'm Vaibhav ☁️</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Building+scalable+cloud+systems;Automating+infrastructure+with+DevOps;Focused+on+reliability+and+growth"
+    alt="Typing SVG"
+  />
+</p>
+
+
 Web Development | Data Analytics |
 # 💫 About Me:
 Hi 👋, I'm Vaibhav  <br>A passionate learner and tech enthusiast from India 🇮🇳  <br><br>💻 Skills: Data Analytics, HTML, CSS, java script , Java  <br>🚀 Interests: Web Development, Coding, Problem Solving  <br>📚 Currently learning: Advanced Java & Backend Development  <br>🎯 Goal: To grow as a Software Developer and build impactful projects  <br><br>📫 Connect with me:  <br>- GitHub: https://github.com/mulayvaibhav1
