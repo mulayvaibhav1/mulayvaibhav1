@@ -31,4 +31,8 @@ Hi 👋, I'm Vaibhav  <br>A passionate learner and tech enthusiast from India �
 ---
 [![](https://visitcount.itsvg.in/api?id=mulayvaibhav1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mulayvaibhav1&theme=github-dark)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
