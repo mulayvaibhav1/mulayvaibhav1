@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vaibhav ☁️</h1>
+<h1 align="center">Hey, I'm Vaibhav 💻</h1>
 
 <p align="center">
   <img
