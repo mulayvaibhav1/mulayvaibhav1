@@ -15,12 +15,6 @@ Hi 👋, I'm Vaibhav  <br>A passionate learner and tech enthusiast from India �
 ![](https://nirzak-streak-stats.vercel.app/?user=mulayvaibhav1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulayvaibhav1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mulayvaibhav1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mulayvaibhav1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
