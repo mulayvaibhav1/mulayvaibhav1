@@ -1,3 +1,12 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=waving
+  text=Computer%20Application
+  fontSize=40
+  fontColor=ffffff
+  animation=fadeIn
+  color=gradient" />
+</h1>
 # Computer Application 💻  
 Learning Web Development | Data Analytics | Programming
 # 💫 About Me:
