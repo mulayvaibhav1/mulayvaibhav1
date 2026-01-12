@@ -1,5 +1,5 @@
 # Computer Application 💻  
-Learning Web Development | Data Analytics | Programming
+Web Development | Data Analytics |
 # 💫 About Me:
 Hi 👋, I'm Vaibhav  <br>A passionate learner and tech enthusiast from India 🇮🇳  <br><br>💻 Skills: Data Analytics, HTML, CSS, java script , Java  <br>🚀 Interests: Web Development, Coding, Problem Solving  <br>📚 Currently learning: Advanced Java & Backend Development  <br>🎯 Goal: To grow as a Software Developer and build impactful projects  <br><br>📫 Connect with me:  <br>- GitHub: https://github.com/mulayvaibhav1
 
