@@ -2,10 +2,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Building+scalable+cloud+systems;Automating+infrastructure+with+DevOps;Focused+on+reliability+and+growth"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF6F00&center=true&vCenter=true&width=750&lines=Computer+Application+Student;Web+Developer+%7C+HTML+CSS+JavaScript;Learning+Data+Analytics+%26+DevOps;Passionate+about+Coding+%26+Design"
     alt="Typing SVG"
   />
 </p>
+
 
 
 Web Development | Data Analytics |
